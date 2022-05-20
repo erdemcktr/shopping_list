@@ -1,0 +1,11 @@
+﻿  ShoppingList.cpp
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(56,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(75,27): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(118,24): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(142,42): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(159,36): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(202,28): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(220,28): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(230,36): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+C:\Users\erdem\source\repos\ShoppingList\ShoppingList.cpp(250,28): warning C4018: '>': imzalı/imzasız uyuşmazlığı
+  ShoppingList.vcxproj -> C:\Users\erdem\source\repos\ShoppingList\Debug\ShoppingList.exe
